@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1.851 1.851" xmlns="http://www.w3.org/2000/svg">
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.849 1.110 L 0.741 1.002 L 0.741 0.849 L 0.849 0.740 L 1.002 0.740 L 1.111 0.849 L 1.111 1.002 L 1.002 1.110 L 0.849 1.110
+		    M 0.734 1.387 L 1.117 1.387 L 1.388 1.116 L 1.388 0.734 L 1.117 0.463 L 0.734 0.463 L 0.464 0.734 L 0.464 1.116 L 0.734 1.387"
+	/>
+</svg>

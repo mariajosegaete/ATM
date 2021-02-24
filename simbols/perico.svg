@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 2.003 2.003" xmlns="http://www.w3.org/2000/svg">
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.501 1.501 L 1.501 1.501 L 1.501 0.501 L 0.501 0.501 L 0.501 1.501"
+	/>
+	<path
+		fill="transparent" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.835 1.501 L 0.835 0.501"
+	/>
+	<path
+		fill="transparent" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.168 1.501 L 1.168 0.501"
+	/>
+	<path
+		fill="transparent" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.501 1.168 L 1.501 1.168"
+	/>
+	<path
+		fill="transparent" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.501 0.834 L 1.501 0.834"
+	/>
+</svg>

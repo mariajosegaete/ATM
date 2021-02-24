@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1.479 1.479" xmlns="http://www.w3.org/2000/svg">
+	<ellipse
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		cx="0.739" cy="0.739" rx="0.239" ry="0.239"
+	/>
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.570 0.908 L 0.909 0.570"
+	/>
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.570 0.570 L 0.909 0.908"
+	/>
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.739 0.739 L 0.739 1.238"
+	/>
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.739 1.238 L 0.554 1.115"
+	/>
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.739 1.238 L 0.925 1.115"
+	/>
+	
+</svg>

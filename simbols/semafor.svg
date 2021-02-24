@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 2.003 2.003" xmlns="http://www.w3.org/2000/svg">
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.802 0.505 L 0.802 1.505 L 1.202 1.505 L 1.202 0.505 L 0.802 0.505"
+	/>
+	<path
+		fill="white" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.902 1.261 L 0.902 1.251 L 0.905 1.232 L 0.915 1.207 L 0.940 1.178 L 0.974 1.161 L 1.013 1.158 L 1.053 1.171 L 1.081 1.196 L 1.098 1.228 L 1.102 1.260 L 1.097 1.289 L 1.072 1.328 L 1.040 1.350 L 1.004 1.357 L 0.968 1.351 L 0.940 1.335 L 0.921 1.316 L 0.907 1.287 L 0.902 1.261"
+	/>
+	<path
+		fill="white" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.902 1.005 L 0.902 0.995 L 0.905 0.976 L 0.915 0.951 L 0.940 0.922 L 0.974 0.905 L 1.013 0.902 L 1.053 0.915 L 1.081 0.940 L 1.098 0.972 L 1.102 1.004 L 1.097 1.033 L 1.072 1.072 L 1.040 1.094 L 1.004 1.101 L 0.968 1.095 L 0.940 1.079 L 0.921 1.060 L 0.907 1.031 L 0.902 1.005"
+	/>
+	<path
+		fill="white" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.902 0.749 L 0.902 0.739 L 0.905 0.720 L 0.915 0.695 L 0.940 0.666 L 0.974 0.649 L 1.013 0.646 L 1.053 0.659 L 1.081 0.684 L 1.098 0.716 L 1.102 0.748 L 1.097 0.777 L 1.072 0.816 L 1.040 0.838 L 1.004 0.845 L 0.968 0.839 L 0.940 0.823 L 0.921 0.804 L 0.907 0.775 L 0.902 0.749"
+	/>
+</svg>

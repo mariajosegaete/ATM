@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 2.203 2.203" xmlns="http://www.w3.org/2000/svg">
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.552 1.651 L 1.652 1.651 L 1.652 0.551 L 0.552 0.551 L 0.552 1.651"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.301 1.251 L 1.301 0.951"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.301 1.251 L 1.488 1.251"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.301 0.951 L 1.488 0.951"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.916 0.994 L 0.888 0.965 L 0.845 0.951 L 0.789 0.951 L 0.746 0.965 L 0.715 0.994 L 0.715 1.022 L 0.730 1.050 L 0.746 1.065 L 0.774 1.079 L 0.859 1.107 L 0.888 1.124 L 0.902 1.138 L 0.916 1.166 L 0.916 1.209 L 0.888 1.237 L 0.845 1.251 L 0.789 1.251 L 0.746 1.237 L 0.715 1.209"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.247 1.251 L 1.131 0.951 L 1.015 1.251"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.053 1.152 L 1.209 1.152"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.301 0.951 L 1.301 1.251"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.301 0.951 L 1.488 0.951"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.301 1.093 L 1.417 1.093"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.301 1.251 L 1.488 1.251"
+	/>
+</svg>

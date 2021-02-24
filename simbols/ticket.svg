@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 2.003 2.003" xmlns="http://www.w3.org/2000/svg">
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.502 1.141 L 0.863 0.501 L 0.750 0.614 L 0.761 0.627 L 0.750 0.614 L 0.766 0.635 L 0.777 0.668 L 0.769 0.723 L 0.744 0.755 L 0.720 0.770 L 0.681 0.778 L 0.638 0.767 L 0.615 0.750 L 0.502 0.862 L 1.141 1.501 L 1.254 1.389 L 1.242 1.375 L 1.228 1.342 L 1.229 1.296 L 1.251 1.256 L 1.280 1.235 L 1.318 1.226 L 1.352 1.230 L 1.372 1.240 L 1.389 1.253 L 1.502 1.141"
+	/>
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 0.975 1.335 L 1.046 1.264"
+	/>
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.116 1.194 L 1.194 1.116"
+	/>
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.265 1.045 L 1.335 0.974"
+	/>
+</svg>

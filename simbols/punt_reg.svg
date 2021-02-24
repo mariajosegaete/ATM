@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1.997 1.997" xmlns="http://www.w3.org/2000/svg">
+	<ellipse
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		cx="0.998" cy="0.999" rx="0.499" ry="0.499"
+	/>
+</svg>

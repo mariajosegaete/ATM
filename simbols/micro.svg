@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 2.979 2.979" xmlns="http://www.w3.org/2000/svg">
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.490 0.996 L 1.490 0.740"
+	/>
+	<path
+		fill="none" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.040 1.446 A 0.450 0.450 0 0 1 1.940 1.446"
+	/>
+	<path
+		fill="param(fill)" stroke="param(outline)" stroke-width="param(outline-width)" stroke-linecap="round" stroke-linejoin="butt" stroke-miterlimit="10"
+		 d="M 1.190 1.452 L 1.190 1.928 L 1.191 1.959 L 1.200 2.004 L 1.221 2.060 L 1.252 2.110 L 1.297 2.157 L 1.344 2.190 L 1.393 2.212 L 1.452 2.225 L 1.502 2.228 L 1.567 2.218 L 1.623 2.196 L 1.673 2.166 L 1.718 2.122 L 1.758 2.062 L 1.780 2.003 L 1.789 1.950 L 1.790 1.928 L 1.790 1.452 L 1.787 1.412 L 1.774 1.355 L 1.753 1.307 L 1.727 1.268 L 1.692 1.230 L 1.633 1.188 L 1.580 1.166 L 1.494 1.152 L 1.403 1.165 L 1.339 1.193 L 1.294 1.224 L 1.246 1.277 L 1.215 1.333 L 1.194 1.405 L 1.190 1.452"
+	/>
+</svg>
